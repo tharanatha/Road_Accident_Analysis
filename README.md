@@ -47,5 +47,16 @@ Clients wants to create a road accident dashboard for the year 2021 and 2022 so 
 - Creating Different Charts and Generating Insights
 - Export the Report to users
 
+## Result
+### Power BI Dashboard 
+
+![power bi report](https://github.com/user-attachments/assets/71a4059d-fe89-4612-a6b5-b52f2c03835e)
+
+### Excel Dashboard 
+
+![Excel Dashboard](https://github.com/user-attachments/assets/ac44235f-be84-4cbf-9ac0-a9ad41bd606d)
+
+
+
 
   
